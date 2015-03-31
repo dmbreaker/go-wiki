@@ -1,0 +1,1 @@
+# The Go wiki has moved: https://golang.org/wiki #
